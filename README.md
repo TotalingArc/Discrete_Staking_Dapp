@@ -78,5 +78,5 @@ This project provides a user interface for staking tokens and earning rewards us
 6. **Live Stream**
     - A live video stream is displayed in the designated box.
 
-## Folder Structure
+
 
