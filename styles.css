@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+
+body {
+    background-color: #000;
+    color: hwb(81 25% 4%); /* Star Trek inspired green */
+    font-family: 'Orbitron', sans-serif;
+}
+
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.market-feed {
+    margin-right: 20px;
+    padding: 20px;
+    border: 3px solid #eb0707;
+    background-color: hwb(240 5% 86%);
+}
+
+.staking-box {
+    border: 2px solid #00FF00;
+    padding: 20px;
+    background: url('https://tenor.com/view/cyberpunk-2077-retro-future-future-retro-japan-gif-17728548'); no-repeat center center;
+    background-size:cover ;
+    width: 500px;
+    background-color: rgb(12, 12, 12);
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: hsl(0, 0%, 13%);
+    color: #00FF00;
+    border: 1px solid #00FF00;
+    cursor: pointer;
+    font-family: 'Star Trek', sans-serif;
+}
+
+button:hover {
+    background-color: hwb(0 4% 96%);
+}
+
+input[type="number"] {
+    width: 75%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #00FF00;
+    background-color: #222;
+    color: hsl(108, 94%, 50%);
+    font-family: 'Star Trek', sans-serif;
+}
