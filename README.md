@@ -28,7 +28,7 @@ This project provides a user interface for staking tokens and earning rewards us
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/staking-rewards-ui.git
+    git clone https://github.com/totalingarc/staking-rewards-ui.git
     cd staking-rewards-ui
     ```
 
