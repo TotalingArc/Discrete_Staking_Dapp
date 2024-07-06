@@ -15,7 +15,7 @@ This project provides a user interface for staking tokens and earning rewards us
 - HTML5 and CSS3
 - JavaScript
 - Web3.js
-- CoinGecko API for price feeds
+-  API for price feeds
 
 ## Setup and Usage
 
