@@ -1,4 +1,4 @@
-const stakingContractAddress = '';
+const stakingContractAddress = '0x00';
 const stakingContractABI = [
 	{
 		"inputs": [
